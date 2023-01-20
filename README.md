@@ -1,2 +1,2 @@
-# AIN313_Datasets
-Dataset we use on the lab.
+# AIN313 Lab Materials
+Codes and dataset we use on the lab.
